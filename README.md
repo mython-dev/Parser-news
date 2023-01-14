@@ -22,8 +22,12 @@ python3 bot.py
 
 ## Screenshots
 
+<p align="center">
+
 <img src="https://github.com/mython-dev/Parser-news/blob/main/screenshot/bot.png" width="550" height="450">
 
+</p>
+    
 ## libraries
 
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
