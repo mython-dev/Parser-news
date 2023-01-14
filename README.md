@@ -15,6 +15,7 @@ git clone https://github.com/mython-dev/Parser-news.git
 
 ```python3
 cd Parser-news
+pip3 install -r requirements.txt
 nano config.py # add your token:)
 python3 bot.py
 ```
