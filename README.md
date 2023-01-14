@@ -22,8 +22,7 @@ python3 bot.py
 
 ## Screenshots
 
-![Screenshot](https://github.com/mython-dev/Parser-news/blob/main/screenshot/bot.png)
-
+<img src="https://github.com/mython-dev/Parser-news/blob/main/screenshot/bot.png" width="468" height="300">
 
 ## libraries
 
