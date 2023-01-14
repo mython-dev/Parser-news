@@ -22,7 +22,7 @@ python3 bot.py
 
 ## Screenshots
 
-![App Screenshot](https://github.com/mython-dev/Parser-news/tree/main/screenshot/bot.png)
+![Screenshot](https://github.com/mython-dev/Parser-news/blob/main/screenshot/bot.png)
 
 
 ## libraries
