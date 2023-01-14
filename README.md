@@ -30,8 +30,10 @@ python3 bot.py
     
 ## libraries
 
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [Aiogram](https://docs.aiogram.dev/en/latest/)
+- [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+- [Aiogram](https://pypi.org/project/aiogram/)
+- [Requests](https://pypi.org/project/requests/)
+
 ## Features
 
 - Connection to the database
