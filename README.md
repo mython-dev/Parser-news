@@ -1,7 +1,7 @@
 
 # Parser News Bot
 
->This bot can parse the news from the site kun.uz :)>
+>This bot can parse the news from the site kun.uz :)
 
 
 ## Installation
