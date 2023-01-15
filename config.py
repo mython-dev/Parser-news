@@ -14,4 +14,4 @@
                             Github: https://github.com/mython-dev
 '''
 
-TOKEN = "5930529276:AAHLQ2_KOGxuP3N8LQf3Gqb5Hwvpo45zkdg"
+TOKEN = ""
