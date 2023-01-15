@@ -1,7 +1,7 @@
 
 # Parser News Bot
 
-This bot can parse the news from the site kun.uz :)
+>This bot can parse the news from the site kun.uz :)>
 
 
 ## Installation
@@ -28,6 +28,15 @@ python3 bot.py
 <img src="https://github.com/mython-dev/Parser-news/blob/main/screenshot/bot.png" width="550" height="450">
 
 </p>
+
+## Uninstallation
+
+Uninstall my project.
+
+```
+cd ..
+sudo rm -r Parser-news
+```
     
 ## libraries
 
