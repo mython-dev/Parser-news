@@ -31,7 +31,7 @@ python3 bot.py
 
 ## Uninstallation
 
-Uninstall my project.
+1. Run the command.
 
 ```
 cd ..
